@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Study</string>
+    <string name="button1">Hello ;-)</string>
+    <string name="button2">About</string>
+    <string name="button3">Main</string>
+    <string name="button4">Another button</string>
+    <string name="info1">Info string</string>
+    <string name="info2">Info string 2</string>
+</resources>
